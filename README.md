@@ -1,6 +1,3 @@
-# Python-crawler-example
-A basic Python crawler example for movie rankings.
-
 # TMDB High-Rated Movie Ranking Crawler
 
 This is a simple Python crawler project designed to scrape high-rated movie ranking data from the TMDB website. It is suitable for beginners to learn and practice web scraping.
